@@ -62,7 +62,5 @@ Output:
 
 Model performance evaluated using R² score.
 Conclusion:
-The system successfully delivers personalized workout and diet recommendations using machine learning predictions and AI-based content generation. An interactive Streamlit web interface enables users to input data and receive real-time insights with visual analytics. The project achieves an efficient, user-friendly, and scalable solution for fitness planning through a lightweight web deployment<img width="7333" height="88" alt="image" src="https://github.com/user-attachments/assets/3870dfc9-4333-4e4e-bf9b-be6d2a7a4787" />
+The system successfully delivers personalized workout and diet recommendations using machine learning predictions and AI-based content generation. An interactive Streamlit web interface enables users to input data and receive real-time insights with visual analytics. The project achieves an efficient, user-friendly, and scalable solution for fitness planning through a lightweight web development.
 
-
-Tell me which one you need.
