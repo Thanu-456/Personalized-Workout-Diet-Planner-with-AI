@@ -61,6 +61,7 @@ Output:
 * 12-week weight forecast
 
 Model performance evaluated using R² score.
+
 ##Conclusion:
 The system successfully delivers personalized workout and diet recommendations using machine learning predictions and AI-based content generation. An interactive Streamlit web interface enables users to input data and receive real-time insights with visual analytics. The project achieves an efficient, user-friendly, and scalable solution for fitness planning through a lightweight web development.
 
